@@ -31,7 +31,7 @@ const ShopSingleMain = () => {
         padding: 4,
         maxWidth: "1300px",
         margin: "auto",
-        backgroundColor: "#fff",
+        backgroundColor: "#f5f5f5",
         borderRadius: 2,
         boxShadow: 3,
       }}
