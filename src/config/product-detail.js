@@ -4,7 +4,6 @@ import img4 from "../assets/pomato.png";
 import img5 from "../assets/muin.png";
 import img6 from "../assets/brown.png";
 import img7 from "../assets/egg.png";
-import img8 from "../assets/Suji.png";
 import img9 from "../assets/bean.png";
 import img10 from "../assets/hazeltun.png";
 import img11 from "../assets/cron.png";
@@ -80,7 +79,7 @@ export const products = [
     price: 15.0,
     rating: 2,
     sale: 20.00,
-    img: img8,
+    img: img7,
   },
   {
     id: 9,
