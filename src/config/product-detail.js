@@ -1,6 +1,5 @@
 import img1 from "../assets/almond.png";
 import img2 from "../assets/banana.png";
-import img3 from "../assets/Nuts.png";
 import img4 from "../assets/pomato.png";
 import img5 from "../assets/muin.png";
 import img6 from "../assets/brown.png";
@@ -36,7 +35,7 @@ export const products = [
     price: 15.0,
     rating: 3,
     sale: 20.00,
-    img: img3,
+    img: img4,
   },
   {
     id: 4,
